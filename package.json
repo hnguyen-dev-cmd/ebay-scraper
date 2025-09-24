@@ -1,0 +1,23 @@
+{
+  "name": "ebay-order-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js script to automate scraping eBay order data and saving it to an Excel file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ebay",
+    "scraper",
+    "automation",
+    "excel",
+    "playwright"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.44.1",
+    "xlsx": "^0.18.5"
+  }
+}
