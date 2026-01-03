@@ -1,0 +1,14 @@
+Dependencies
+node_modules/
+
+Environment variables (Credentials)
+.envUser Data 
+
+(Browser sessions)
+user_data/
+
+Screenshots (Optional - keep them local)
+screenshots/
+
+System files.
+DS_Store
